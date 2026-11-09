@@ -1,0 +1,16 @@
+# Capturas de horarios y resultado: no se suben (traen nombres de profesores)
+screenshots/*
+!screenshots/.gitkeep
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+Ambiente/
+
+# Sistema
+.DS_Store
+Thumbs.db
